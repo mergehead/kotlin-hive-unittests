@@ -26,7 +26,6 @@ package com.mergehead.kotlinhive.unittests
 
 import com.klarna.hiverunner.HiveShell
 import com.klarna.hiverunner.StandaloneHiveRunner
-import com.mergehead.kotlinhive.unittests.ReflectUtils
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertNotNull
 import org.junit.Before
